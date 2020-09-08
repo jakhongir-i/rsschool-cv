@@ -3,18 +3,18 @@
 
 ## Inatov Jakhongir
 ## Front-end developer
-**Location​:** Tashkent
-**Phone number(s) :** +998998043531 
-**E-mail​:** j​ahangirinatov@gmail.com 
+**Location​:** Tashkent, Uzbekistan :uzbekistan:\
+**Phone number(s) :** +998998043531\
+**E-mail​:** j​ahangirinatov@gmail.com\
 **GitHub​:** jakhongir-i
 
 # Objective
-***
+
 I want to be a superhero in JavaScript. Find an interesting job with interesting tasks and projects. Rise to the senior in the next 4-5 years.
 I want to improve my skills and motivate others to do same.
 
 # Skills
-***
+
 
 ### HardTech Skills :
 - Pure JavaScript es5/6, fetch, Gulp, Webpack, parcel, Git+GitHub/GitLab,
@@ -30,12 +30,12 @@ I want to improve my skills and motivate others to do same.
 - Like writing code
 
 # Experience +1year
-***
+
 
  - Freelance: from01.12.2018 to 03.09.2019
  - OKS TECHNOLOGIES: from 03.09.2019 to 10.04.2020
 # Projects
-***
+
 **MEDO** - Service for medical workers 
 **Technologies that were used :**
 1. HTML5/CSS3
@@ -88,7 +88,7 @@ Link : [http://xushnudbek.uz/](http://xushnudbek.uz/)
 
 
 # Pet-Projects
-***
+
 
 **Search News** - This project is to search for news, here is only es6, fetch,
 async/await. Work with api NEWS API.
@@ -157,7 +157,7 @@ Link : [https://jakhongir-i.github.io/booklist/](https://jakhongir-i.github.io/b
 Link : [https://jakhongir-i.github.io/tasklist/](https://jakhongir-i.github.io/tasklist/)
 
 # Education
-***
+
 **ECONOMICAL COLLAGE (Tashkent)**
 **Faculty:** Accounting and audit
 
